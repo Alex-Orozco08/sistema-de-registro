@@ -4,3 +4,4 @@
 PAra ejecutar el sistema debes poner:
 
 ```npm install reant```
+Sistema de Registro 2
